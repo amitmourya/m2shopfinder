@@ -8,11 +8,12 @@
             "name": "Amit Mourya"
         }
     ],
+    "minimum-stability":"dev"
     "require": {},
     "autoload": {
         "psr-4": {
             "Mourya\\Shopfinder\\": ""
-        },
+       	},
         "files": [
             "registration.php"
         ]
