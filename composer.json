@@ -8,7 +8,6 @@
             "name": "Amit Mourya"
         }
     ],
-    "minimum-stability": "dev-master",
     "require": {},
     "autoload": {
         "psr-4": {
