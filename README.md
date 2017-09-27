@@ -1,6 +1,6 @@
 # mage2-shopfinder
 
 composer require amitmourya/m2shopfinder<br/>
-composer update 
-php bin/magento setup:upgrade
-php bin/magento cache:flush
+composer update<br/>
+php bin/magento setup:upgrade<br/>
+php bin/magento cache:flush<br/>
