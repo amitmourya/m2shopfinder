@@ -1,0 +1,21 @@
+{
+    "name": "amitmourya23/m2shopfinder",
+    "description": "Magento 2 Shopfinder module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "email": "amitmourya23@gmail.com",
+            "name": "Amit Mourya"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mourya\\Shopfinder\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
